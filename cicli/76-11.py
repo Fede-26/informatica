@@ -1,5 +1,5 @@
-#DOESN'T WORK
 #!/usr/bin/env python3
+#DOESN'T WORK
 
 num = int(input("num: "))
 

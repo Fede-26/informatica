@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 n1 = int(input("n1: "))
 n2 = int(input("n2: "))
 

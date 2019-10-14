@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 pari = 0
 while 1:
     n = int(input("n: "))
@@ -7,4 +9,3 @@ while 1:
         break
 
 print(pari)
-        

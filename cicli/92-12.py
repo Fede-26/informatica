@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 start =  9
 how_many_n = 12
 somma = 0

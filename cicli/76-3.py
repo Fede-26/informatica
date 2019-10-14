@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 n = 5
 minimo = 10
 massimo = 100
