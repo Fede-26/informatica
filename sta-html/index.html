@@ -10,9 +10,15 @@
     </style>
 
     <script>
+
         function openWin() {
-            myWindow = window.open("file:///home/federico/esercizi/informatica-2cit/sta-html/info.html", "", "width=400, height=600");  // Opens a new window
+            var w = 400;
+            var h = 600;
+            var l = Math.floor((screen.width-w)/2);
+            var t = Math.floor((screen.height-h)/2);
+            window.open("mioFile.htm","","width=" + w + ",height=" + h + ",top=" + t + ",left=" + l);
         }
+
     </script>
 
     <title>2CIT</title>
