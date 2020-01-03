@@ -25,7 +25,7 @@ def cornice1():
     print(("".join(string)) * count)
 
 
-def cornice2():
+def cornice2():  # non usa le liste
     width = 0
     height = 0
     count = 0
